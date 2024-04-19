@@ -1,6 +1,8 @@
 <h1>About Me</h1>
 Hello! I'm **Mario** 👋
+<br>
 ---
+<br>
 I'm an active Game Application and Technology Major Student 🎮
 
 <table width="100%">
