@@ -22,7 +22,7 @@ I'm an active Game Application and Technology Major Student 🎮
       <td align="center"><a href="https://bgdc.itch.io/project-valence">Itch Page</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Felixwijaya04/Project-Valence">GitHub page</td>
+      <td align="center"><a href="https://github.com/Felixwijaya04/Project-Valence"><b>GitHub Page</b></td>
     </tr>
   </tbody>
 </table>
